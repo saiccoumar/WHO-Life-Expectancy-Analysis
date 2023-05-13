@@ -1,8 +1,8 @@
 # WHO Life Expectancy Analysis in SAS
-An analysis of the Kaggle WHO life expectancy dataset
-by Sai Coumar
+An analysis of the Kaggle WHO life expectancy dataset<br />
+by Sai Coumar<br />
 Dataset: https://www.kaggle.com/datasets/kumarajarshi/life-expectancy-who
-
+<br />
 # Introduction:
 Welcome to my analysis of the WHO Life Expectancy Dataset by @KUMARRAJARSHI on Kaggle! This report doesn't aim to derive substantial takeaways but rather to display the capacity of SAS in the context of data analysis and exploration. Within this report I'm going to go through the process of importing data, exploring it's features, subsetting data, visualizing data, exploring relationships, and exporting data using SAS. SAS is a very versatile and vast software, and I wanted to cover some common tasks that can be performed in SAS for data analytics. 
 
