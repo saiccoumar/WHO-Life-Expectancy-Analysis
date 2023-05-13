@@ -1,0 +1,194 @@
+Start,Label,Fmtname
+Afghanistan, AFG,$Countrycode
+Albania, ALB,$Countrycode
+Algeria, DZA,$Countrycode
+Angola, AGO,$Countrycode
+Antigua and Barbuda, ATG,$Countrycode
+Argentina, ARG,$Countrycode
+Armenia, ARM,$Countrycode
+Australia, AUS,$Countrycode
+Austria, AUT,$Countrycode
+Azerbaijan, AZE,$Countrycode
+Bahamas, BHS,$Countrycode
+Bahrain, BHR,$Countrycode
+Bangladesh, BGD,$Countrycode
+Barbados, BRB,$Countrycode
+Belarus, BLR,$Countrycode
+Belgium, BEL,$Countrycode
+Belize, BLZ,$Countrycode
+Benin, BEN,$Countrycode
+Bhutan, BTN,$Countrycode
+Bolivia (Plurinational State of), BOL,$Countrycode
+Bosnia and Herzegovina, BIH,$Countrycode
+Botswana, BWA,$Countrycode
+Brazil, BRA,$Countrycode
+Brunei Darussalam, BRN,$Countrycode
+Bulgaria, BGR,$Countrycode
+Burkina Faso, BFA,$Countrycode
+Burundi, BDI,$Countrycode
+Cabo Verde, CPV,$Countrycode
+Cambodia, KHM,$Countrycode
+Cameroon, CMR,$Countrycode
+Canada, CAN,$Countrycode
+Central African Republic, CAF,$Countrycode
+Chad, TCD,$Countrycode
+Chile, CHL,$Countrycode
+China, CHN,$Countrycode
+Colombia, COL,$Countrycode
+Comoros, COM,$Countrycode
+Congo, COG,$Countrycode
+Cook Islands, COK,$Countrycode
+Costa Rica, CRI,$Countrycode
+Croatia, HRV,$Countrycode
+Cuba, CUB,$Countrycode
+Cyprus, CYP,$Countrycode
+Czechia, CZE,$Countrycode
+CÃ´te d'Ivoire, CIV,$Countrycode
+Democratic People's Republic of Korea, PRK,$Countrycode
+Democratic Republic of the Congo, COD,$Countrycode
+Denmark, DNK,$Countrycode
+Djibouti, DJI,$Countrycode
+Dominica, DMA,$Countrycode
+Dominican Republic, DOM,$Countrycode
+Ecuador, ECU,$Countrycode
+Egypt, EGY,$Countrycode
+El Salvador, SLV,$Countrycode
+Equatorial Guinea, GNQ,$Countrycode
+Eritrea, ERI,$Countrycode
+Estonia, EST,$Countrycode
+Ethiopia, ETH,$Countrycode
+Fiji, FJI,$Countrycode
+Finland, FIN,$Countrycode
+France, FRA,$Countrycode
+Gabon, GAB,$Countrycode
+Gambia, GMB,$Countrycode
+Georgia, GEO,$Countrycode
+Germany, DEU,$Countrycode
+Ghana, GHA,$Countrycode
+Greece, GRC,$Countrycode
+Grenada, GRD,$Countrycode
+Guatemala, GTM,$Countrycode
+Guinea, GIN,$Countrycode
+Guinea-Bissau, GNB,$Countrycode
+Guyana, GUY,$Countrycode
+Haiti, HTI,$Countrycode
+Honduras, HND,$Countrycode
+Hungary, HUN,$Countrycode
+Iceland, ISL,$Countrycode
+India, IND,$Countrycode
+Indonesia, IDN,$Countrycode
+Iran (Islamic Republic of), IRN,$Countrycode
+Iraq, IRQ,$Countrycode
+Ireland, IRL,$Countrycode
+Israel, ISR,$Countrycode
+Italy, ITA,$Countrycode
+Jamaica, JAM,$Countrycode
+Japan, JPN,$Countrycode
+Jordan, JOR,$Countrycode
+Kazakhstan, KAZ,$Countrycode
+Kenya, KEN,$Countrycode
+Kiribati, KIR,$Countrycode
+Kuwait, KWT,$Countrycode
+Kyrgyzstan, KGZ,$Countrycode
+Lao People's Democratic Republic, LAO,$Countrycode
+Latvia, LVA,$Countrycode
+Lebanon, LBN,$Countrycode
+Lesotho, LSO,$Countrycode
+Liberia, LBR,$Countrycode
+Libya, LBY,$Countrycode
+Lithuania, LTU,$Countrycode
+Luxembourg, LUX,$Countrycode
+Madagascar, MDG,$Countrycode
+Malawi, MWI,$Countrycode
+Malaysia, MYS,$Countrycode
+Maldives, MDV,$Countrycode
+Mali, MLI,$Countrycode
+Malta, MLT,$Countrycode
+Marshall Islands, MHL,$Countrycode
+Mauritania, MRT,$Countrycode
+Mauritius, MUS,$Countrycode
+Mexico, MEX,$Countrycode
+Micronesia (Federated States of), FSM,$Countrycode
+Monaco, MCO,$Countrycode
+Mongolia, MNG,$Countrycode
+Montenegro, MNE,$Countrycode
+Morocco, MAR,$Countrycode
+Mozambique, MOZ,$Countrycode
+Myanmar,MM,$Countrycode
+Namibia,NA,$Countrycode
+Nauru,NR,$Countrycode
+Nepal,NP,$Countrycode
+Netherlands,NL,$Countrycode
+New Zealand,NZ,$Countrycode
+Nicaragua,NI,$Countrycode
+Niger,NE,$Countrycode
+Nigeria,NG,$Countrycode
+Niue,NU,$Countrycode
+Norway,NO,$Countrycode
+Oman,OM,$Countrycode
+Pakistan,PK,$Countrycode
+Palau,PW,$Countrycode
+Panama,PA,$Countrycode
+Papua New Guinea,PG,$Countrycode
+Paraguay,PY,$Countrycode
+Peru,PE,$Countrycode
+Philippines,PH,$Countrycode
+Poland,PL,$Countrycode
+Portugal,PT,$Countrycode
+Qatar,QA,$Countrycode
+Republic of Korea,KR,$Countrycode
+Republic of Moldova,MD,$Countrycode
+Romania,RO,$Countrycode
+Russian Federation,RU,$Countrycode
+Rwanda,RW,$Countrycode
+Saint Kitts and Nevis,KN,$Countrycode
+Saint Lucia,LC,$Countrycode
+Saint Vincent and the Grenadines,VC,$Countrycode
+Samoa,WS,$Countrycode
+San Marino,SM,$Countrycode
+Sao Tome and Principe,ST,$Countrycode
+Saudi Arabia,SA,$Countrycode
+Senegal,SN,$Countrycode
+Serbia,RS,$Countrycode
+Seychelles,SC,$Countrycode
+Sierra Leone,SL,$Countrycode
+Singapore,SG,$Countrycode
+Slovakia,SK,$Countrycode
+Slovenia,SI,$Countrycode
+Solomon Islands,SB,$Countrycode
+Somalia,SO,$Countrycode
+South Africa,ZA,$Countrycode
+South Sudan,SS,$Countrycode
+Spain,ES,$Countrycode
+Sri Lanka,LK,$Countrycode
+Sudan,SD,$Countrycode
+Suriname,SR,$Countrycode
+Swaziland,SZ,$Countrycode
+Sweden,SE,$Countrycode
+Switzerland,CH,$Countrycode
+Syrian Arab Republic,SY,$Countrycode
+Tajikistan,TJ,$Countrycode
+Thailand,TH,$Countrycode
+The former Yugoslav republic of Macedonia,MK,$Countrycode
+Timor-Leste,TL,$Countrycode
+Togo,TG,$Countrycode
+Tonga,TO,$Countrycode
+Trinidad and Tobago,TT,$Countrycode
+Tunisia,TN,$Countrycode
+Turkey,TR,$Countrycode
+Turkmenistan,TM,$Countrycode
+Tuvalu,TV,$Countrycode
+Uganda,UG,$Countrycode
+Ukraine,UA,$Countrycode
+United Arab Emirates,AE,$Countrycode
+United Kingdom of Great Britain and Northern Ireland,GB,$Countrycode
+United Republic of Tanzania,TZ,$Countrycode
+United States of America,US,$Countrycode
+Uruguay,UY,$Countrycode
+Uzbekistan,UZ,$Countrycode
+Vanuatu,VU,$Countrycode
+Venezuela (Bolivarian Republic of),VE,$Countrycode
+Viet Nam,VN,$Countrycode
+Yemen,YE,$Countrycode
+Zambia,ZM,$Countrycode
+Zimbabwe,ZW,$Countrycode

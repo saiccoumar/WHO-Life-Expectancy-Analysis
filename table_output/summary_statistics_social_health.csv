@@ -1,0 +1,194 @@
+Country,_TYPE_,_FREQ_,maximum_var,minimum_var,median_var
+Afghanistan,1,16,0.03,0.01,0.01
+Albania,1,16,5.79,3.66,4.95
+Algeria,1,16,0.66,0.01,0.45
+Angola,1,16,8.33,1.85,6.35
+Antigua and Barbuda,1,16,8.93,7.16,7.84
+Argentina,1,16,8.41,7.53,7.93
+Armenia,1,16,4.25,2.86,3.91
+Australia,1,16,10.76,9.53,10.17
+Austria,1,16,13.20,11.30,12.26
+Azerbaijan,1,16,2.14,0.01,0.73
+Bahamas,1,16,12.15,9.19,10.15
+Bahrain,1,16,2.16,1.57,1.99
+Bangladesh,1,16,0.01,0.01,0.01
+Barbados,1,16,8.95,7.38,8.41
+Belarus,1,16,17.31,10.74,13.94
+Belgium,1,16,12.60,10.05,11.01
+Belize,1,16,7.24,4.79,6.56
+Benin,1,16,1.40,0.01,1.19
+Bhutan,1,16,0.96,0.01,0.21
+Bolivia (Plurinational State of),1,16,3.95,2.20,3.47
+Bosnia and Herzegovina,1,16,5.16,3.64,4.54
+Botswana,1,16,6.56,0.01,5.51
+Brazil,1,16,7.58,6.85,7.21
+Brunei Darussalam,1,16,0.97,0.01,0.25
+Bulgaria,1,16,12.06,9.69,10.89
+Burkina Faso,1,16,4.88,0.01,4.55
+Burundi,1,16,6.61,0.01,4.50
+Cabo Verde,1,16,5.28,0.01,4.16
+Cambodia,1,16,2.24,0.01,1.71
+Cameroon,1,16,6.19,0.01,4.71
+Canada,1,16,8.40,7.60,8.20
+Central African Republic,1,16,1.67,0.01,1.50
+Chad,1,16,0.64,0.01,0.42
+Chile,1,16,7.93,6.06,7.20
+China,1,16,5.79,2.84,3.88
+Colombia,1,16,4.66,4.25,4.41
+Comoros,1,16,0.27,0.01,0.12
+Congo,1,16,3.82,0.01,2.45
+Cook Islands,1,1,0.01,0.01,0.01
+Costa Rica,1,16,4.34,3.34,4.09
+Croatia,1,16,13.78,11.49,12.21
+Cuba,1,16,4.48,3.92,4.16
+Cyprus,1,16,13.03,0.01,10.80
+Czechia,1,16,13.47,12.43,13.19
+Côte d'Ivoire,1,16,3.45,0.01,3.12
+Democratic People's Republic of Korea,1,16,3.61,0.01,3.16
+Democratic Republic of the Congo,1,16,2.13,0.01,1.81
+Denmark,1,16,11.69,9.26,10.99
+Djibouti,1,16,1.34,0.38,0.53
+Dominica,1,1,0.01,0.01,0.01
+Dominican Republic,1,16,6.58,5.16,6.05
+Ecuador,1,16,4.13,3.52,3.82
+Egypt,1,16,0.24,0.14,0.21
+El Salvador,1,16,3.10,2.36,2.77
+Equatorial Guinea,1,16,11.89,0.01,7.19
+Eritrea,1,16,1.23,0.01,0.62
+Estonia,1,16,17.87,0.01,11.64
+Ethiopia,1,16,1.86,0.01,1.06
+Fiji,1,16,2.31,0.01,1.93
+Finland,1,16,10.45,8.59,9.72
+France,1,16,13.89,11.10,12.20
+Gabon,1,16,9.29,0.01,8.64
+Gambia,1,16,3.48,0.01,2.47
+Georgia,1,16,8.65,2.72,6.13
+Germany,1,16,12.91,10.94,11.50
+Ghana,1,16,1.78,0.01,1.53
+Greece,1,16,9.95,7.46,9.00
+Grenada,1,16,10.71,7.84,8.80
+Guatemala,1,16,2.63,1.88,2.35
+Guinea,1,16,0.34,0.01,0.18
+Guinea-Bissau,1,16,3.57,0.01,2.58
+Guyana,1,16,7.93,6.63,7.52
+Haiti,1,16,6.64,0.01,5.85
+Honduras,1,16,3.23,2.61,3.10
+Hungary,1,16,13.29,0.01,12.22
+Iceland,1,16,10.22,6.17,7.31
+India,1,16,3.11,0.93,1.59
+Indonesia,1,16,0.09,0.05,0.06
+Iran (Islamic Republic of),1,16,0.03,0.01,0.01
+Iraq,1,16,0.32,0.01,0.17
+Ireland,1,16,14.27,10.49,13.24
+Israel,1,16,2.78,2.23,2.53
+Italy,1,16,9.78,6.95,8.37
+Jamaica,1,16,3.89,3.33,3.63
+Japan,1,16,8.03,0.01,7.49
+Jordan,1,16,0.61,0.40,0.54
+Kazakhstan,1,16,7.60,5.75,6.63
+Kenya,1,16,1.97,0.01,1.73
+Kiribati,1,16,0.76,0.01,0.49
+Kuwait,1,16,0.10,0.01,0.01
+Kyrgyzstan,1,16,3.52,0.01,2.62
+Lao People's Democratic Republic,1,16,5.95,0.01,3.68
+Latvia,1,16,12.12,0.01,9.85
+Lebanon,1,16,2.26,1.29,1.72
+Lesotho,1,16,3.10,0.01,2.67
+Liberia,1,16,4.46,0.01,4.03
+Libya,1,16,0.01,0.01,0.01
+Lithuania,1,16,15.19,9.87,12.66
+Luxembourg,1,16,13.14,11.02,11.75
+Madagascar,1,16,1.16,0.01,0.87
+Malawi,1,16,1.27,0.01,1.11
+Malaysia,1,16,0.54,0.42,0.49
+Maldives,1,16,1.98,0.01,1.75
+Mali,1,16,0.61,0.01,0.53
+Malta,1,16,8.84,5.59,7.14
+Marshall Islands,1,1,0.01,0.01,0.01
+Mauritania,1,16,0.03,0.01,0.01
+Mauritius,1,16,4.60,0.01,3.24
+Mexico,1,16,5.36,4.77,5.21
+Micronesia (Federated States of),1,16,3.15,1.58,1.97
+Monaco,1,1,0.01,0.01,0.01
+Mongolia,1,16,5.80,0.01,2.75
+Montenegro,1,16,6.56,0.01,0.01
+Morocco,1,16,0.62,0.43,0.54
+Mozambique,1,16,2.16,0.01,1.19
+Myanmar,1,16,0.70,0.01,0.33
+Namibia,1,16,7.99,0.01,5.09
+Nauru,1,1,0.01,0.01,0.01
+Nepal,1,16,0.27,0.01,0.20
+Netherlands,1,16,10.06,0.01,9.56
+New Zealand,1,16,9.62,8.70,9.19
+Nicaragua,1,16,3.83,3.36,3.61
+Niger,1,16,0.15,0.01,0.11
+Nigeria,1,16,9.76,0.01,9.30
+Niue,1,1,0.01,0.01,0.01
+Norway,1,16,6.75,5.49,6.22
+Oman,1,16,0.63,0.38,0.56
+Pakistan,1,16,0.04,0.01,0.03
+Palau,1,1,,,
+Panama,1,16,6.95,5.43,6.16
+Papua New Guinea,1,16,0.88,0.01,0.68
+Paraguay,1,16,6.78,0.01,5.66
+Peru,1,16,5.38,0.01,4.50
+Philippines,1,16,5.02,4.08,4.45
+Poland,1,16,11.63,7.74,10.59
+Portugal,1,16,14.21,9.88,12.22
+Qatar,1,16,1.37,0.50,1.15
+Republic of Korea,1,16,11.45,0.01,9.31
+Republic of Moldova,1,16,12.27,6.71,9.66
+Romania,1,16,11.90,0.01,9.59
+Russian Federation,1,16,12.19,10.12,11.05
+Rwanda,1,16,8.34,0.01,6.78
+Saint Kitts and Nevis,1,1,8.54,8.54,8.54
+Saint Lucia,1,16,13.45,9.73,11.85
+Saint Vincent and the Grenadines,1,16,7.07,4.73,6.04
+Samoa,1,16,4.17,0.01,3.30
+San Marino,1,1,0.01,0.01,0.01
+Sao Tome and Principe,1,16,6.54,0.01,5.07
+Saudi Arabia,1,16,0.10,0.05,0.09
+Senegal,1,16,0.36,0.26,0.32
+Serbia,1,16,9.85,6.95,9.16
+Seychelles,1,16,11.15,0.01,7.41
+Sierra Leone,1,16,4.21,0.01,3.86
+Singapore,1,16,2.16,1.43,1.80
+Slovakia,1,16,11.37,9.85,10.58
+Slovenia,1,16,12.26,9.29,10.80
+Solomon Islands,1,16,1.21,0.01,0.99
+Somalia,1,16,0.01,0.01,0.01
+South Africa,1,16,8.69,6.93,7.38
+South Sudan,1,16,,,
+Spain,1,16,12.26,0.01,10.24
+Sri Lanka,1,16,3.03,1.45,2.05
+Sudan,1,16,2.12,0.01,1.76
+Suriname,1,16,6.32,4.23,4.72
+Swaziland,1,16,7.19,0.01,5.20
+Sweden,1,16,7.40,6.20,6.90
+Switzerland,1,16,11.26,9.61,10.24
+Syrian Arab Republic,1,16,1.41,0.01,0.83
+Tajikistan,1,16,0.86,0.01,0.35
+Thailand,1,16,6.56,5.88,6.14
+The former Yugoslav republic of Macedonia,1,16,3.27,1.03,1.75
+Timor-Leste,1,16,0.50,0.01,0.10
+Togo,1,16,1.44,0.01,1.10
+Tonga,1,16,2.05,0.01,1.24
+Trinidad and Tobago,1,16,6.94,4.55,6.37
+Tunisia,1,16,1.46,1.17,1.30
+Turkey,1,16,1.54,1.26,1.42
+Turkmenistan,1,16,2.93,2.33,2.71
+Tuvalu,1,1,0.01,0.01,0.01
+Uganda,1,16,10.57,0.01,9.89
+Ukraine,1,16,9.46,4.31,8.06
+United Arab Emirates,1,16,1.91,1.64,1.74
+United Kingdom of Great Britain and Northern Ireland,1,16,12.22,10.32,10.90
+United Republic of Tanzania,1,16,4.40,0.01,3.97
+United States of America,1,16,8.82,8.21,8.63
+Uruguay,1,16,6.76,5.11,6.21
+Uzbekistan,1,16,2.83,0.01,1.60
+Vanuatu,1,16,1.24,0.01,0.91
+Venezuela (Bolivarian Republic of),1,16,8.70,6.30,7.55
+Viet Nam,1,16,4.12,1.60,3.01
+Yemen,1,16,0.08,0.01,0.04
+Zambia,1,16,2.62,0.01,2.41
+Zimbabwe,1,16,6.50,1.68,4.43

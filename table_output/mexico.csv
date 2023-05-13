@@ -1,0 +1,17 @@
+Country,Year,Life_expectancy,Adult_Mortality,Alcohol,percentage_expenditure,death_by_disease,deadliest_disease
+Mexico,2015,77,122,0,0,256.1,Measles
+Mexico,2014,77,122,5,168,261.1,_HIV_AIDS
+Mexico,2013,77,12,5,150,248.1,Measles
+Mexico,2012,77,123,5,112,297.1,Measles
+Mexico,2011,77,124,5,1118,295.1,_HIV_AIDS
+Mexico,2010,76,127,5,1034,283.1,Measles
+Mexico,2009,76,13,5,882,285.1,Measles
+Mexico,2008,76,127,5,160,289.1,Measles
+Mexico,2007,76,123,5,106,294.1,Measles
+Mexico,2006,76,125,5,980,317.1,_HIV_AIDS
+Mexico,2005,76,126,4,998,300.1,_HIV_AIDS
+Mexico,2004,76,124,4,920,358.1,_HIV_AIDS
+Mexico,2003,75,127,4,782,338.1,_HIV_AIDS
+Mexico,2002,75,127,4,12,292.1,Measles
+Mexico,2001,75,126,4,14,294.1,_HIV_AIDS
+Mexico,2000,75,129,4,10,321.1,_HIV_AIDS
