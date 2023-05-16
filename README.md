@@ -1,4 +1,10 @@
 # WHO Life Expectancy Analysis in SAS
+
+<p align="center">
+<img width="75%" height="auto" src="https://github.com/saiccoumar/WHO-Life-Expectancy-Analysis/assets/55699636/64dee3da-ae63-47e4-bed8-5b5d55fc00a0">
+	<em>https://en.wikipedia.org/wiki/SAS_Institute</em>
+</p>
+
 An analysis of the Kaggle WHO life expectancy dataset<br />
 by Sai Coumar<br />
 Dataset: https://www.kaggle.com/datasets/kumarajarshi/life-expectancy-who
